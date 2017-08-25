@@ -1,4 +1,4 @@
-# Basic Project
+# Loops Project
 
 *Structure for creating a Basic Java Project.*
 
